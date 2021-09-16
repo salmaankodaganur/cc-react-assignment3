@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(243, 131, 169);
+}
+
+.main{
+    border: 2px solid grey;
+    width: 300px;
+    margin: 0px auto;
+}
+table{
+    width: 100%;
+}
+td{
+    width: 25%;
+}
+button{
+    width: 100%;
+    background-color: black;
+    color: white;
+    height: 70px;
+    font-size: 30px;
+}
+input{
+    display: flex;
+    font-size: 25px;
+    width: 97%;
+    height: 90px;
+    background-color: gray;
+    color: white;
+}
